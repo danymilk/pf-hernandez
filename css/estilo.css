@@ -31,4 +31,28 @@ h3 {
   padding-bottom: 30px;
 }
 
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul li a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: "Gloria Hallelujah", cursive;
+  margin: 30px;
+}
+
+p {
+  color: black;
+  font-size: 30px;
+  font-weight: 50;
+  font-family: "Gloria Hallelujah", cursive;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
 /*# sourceMappingURL=estilo.css.map */
